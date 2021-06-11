@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="G9.png">
+  <!--  Created with BRUTE FORCE BEACHEEESS!  -->
+  
+  <SubTexture name="G9 idle dance0000" x="0" y="0" width="819" height="1092" frameX="0" framey="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 idle dance0001" x="819" y="0" width="819" height="1092" frameX="0" framey="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 idle dance0002" x="1638" y="0" width="819" height="1092" framex="0" frameY="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 idle dance0003" x="2457" y="0" width="819" height="1092" framex="0" frameY="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 idle dance0004" x="3276" y="0" width="819" height="1092" frameX="0" frameY="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 Sing Note UP0000" x="0" y="819" width="819" height="1092" frameX="0" framey="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 Sing Note UP0001" x="819" y="819" width="819" height="1092" frameX="0" framey="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 Sing Note DOWN0000" x="1638" y="819" width="819" height="1092" framex="0" frameY="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 Sing Note DOWN0001" x="2457" y="819" width="819" height="1092" framex="0" frameY="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 Sing Note LEFT0000" x="3276" y="819" width="819" height="1092" framex="0" frameY="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 Sing Note LEFT0001" x="0" y="1638" width="819" height="1092" framex="0" frameY="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 Sing Note RIGHT0000" x="819" y="1638" width="819" height="1092" framex="0" frameY="0" framewidth="819" frameheight="1092"/>
+  <SubTexture name="G9 Sing Note RIGHT0001" x="1638" y="1638" width="819" height="1092" framex="0" frameY="0" framewidth="819" frameheight="1092"/>
+</TextureAtlas>
